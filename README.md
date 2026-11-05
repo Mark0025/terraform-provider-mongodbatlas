@@ -1,4 +1,11 @@
 # MongoDB Atlas Provider
+
+## About
+- **What it is:** A copy of MongoDB's official Terraform plugin for managing MongoDB Atlas cloud databases as code.
+- **Business:** learning
+- **Status:** inactive since 2024-08
+- **Source:** agent research 2026-11-04
+
 [![Code Health](https://github.com/mongodb/terraform-provider-mongodbatlas/actions/workflows/code-health.yml/badge.svg)](https://github.com/mongodb/terraform-provider-mongodbatlas/actions/workflows/code-health.yml)
 [![Acceptance Tests](https://github.com/mongodb/terraform-provider-mongodbatlas/actions/workflows/acceptance-tests.yml/badge.svg)](https://github.com/mongodb/terraform-provider-mongodbatlas/actions/workflows/acceptance-tests.yml)
 
